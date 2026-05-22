@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi — I'm Vadim 👋
 
-<!--
-**vadimliberman-creator/vadimliberman-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **hardware operations & NPI professional** — components engineering,
+supply chain and PLM — and I build **AI tools** that automate the slow,
+manual analysis work in hardware engineering.
 
-Here are some ideas to get you started:
+🔧 **What I build**
+- **BOM obsolescence & supply-chain risk** — EOL/NRND/LTB detection,
+  geopolitical exposure, alternative-part sourcing
+- **Component & reliability analysis** — automated stress / derating checks
+  against MIL-STD / ECSS / SMC-S-010
+- **Hardware engineering automation** — turning manual BOM, NPI and PLM
+  review work into structured, repeatable analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Stack:** Python · FastAPI · React/TypeScript · LangChain · Docker
+
+📌 **Currently:** building NeuralBoard — AI tooling for hardware engineering.
+Open-sourcing focused pieces of it here.
+
+✍️ I write about components, obsolescence, supply chain, NPI/PLM and
+AI-for-hardware on [LinkedIn](https://www.linkedin.com/in/vadim-liberman-hw-ai).
+
+📫 [LinkedIn](https://www.linkedin.com/in/vadim-liberman-hw-ai) ·
+[neuralboard-systems.netlify.app](https://neuralboard-systems.netlify.app)
